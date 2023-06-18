@@ -7,7 +7,6 @@ function showTime(){
     
     if(h == 0){
         h = 12;
-        var ff=0;
     }
     
     if(h > 12){
